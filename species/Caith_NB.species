@@ -1,0 +1,21 @@
+{
+  "code": "staxel.species.Caith_NB",
+  "icon": "image/CharacterCreator/CaithSpeciesIcon.png",
+  "male": {
+    "icon": "mods/PrideMod/species/NonbinaryIcon.png",
+    "bodyType": "staxel.bodyType.caithMale",
+    "model": "mods/PrideMod/species/Caith_NB.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+  },
+  "female": {
+    "icon": "mods/PrideMod/species/NonbinaryIcon.png",
+    "bodyType": "staxel.bodyType.caithFemale",
+    "model": "mods/PrideMod/species/Caith_NB1.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+	},
+  "playable": true
+}

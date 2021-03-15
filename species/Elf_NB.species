@@ -1,0 +1,23 @@
+{
+  "code": "staxel.species.Elf_NB",
+  "icon": "image/CharacterCreator/ElfSpeciesIcon.png",
+  "male": {
+    "icon": "mods/PrideMod/species/NonBinaryIcon_Masculine.png",
+    "bodyType": "staxel.bodyType.HumanoidMale",
+    "model": "mods/PrideMod/species/Elf_NB.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours",
+      "staxel.palette.group.PastelSkinColours"
+    ]
+  },
+  "female": {
+    "icon": "mods/PrideMod/species/NonbinaryIcon_Feminine.png",
+    "bodyType": "staxel.bodyType.HumanoidFemale",
+    "model": "mods/PrideMod/species/Elf_NB1.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours",
+      "staxel.palette.group.PastelSkinColours"
+    ]
+  },
+  "playable": true
+}

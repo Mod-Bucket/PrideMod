@@ -1,0 +1,22 @@
+{
+  "__inherits": "staxel/tile/Hammerable.config",
+  "categories": [
+    "block",
+    "Brown",
+    "brick"
+  ],
+  "code": "mods.mb.PrideMod.tile.Honeycomb",
+  "damageSoundGroup": "staxel.sounds.damage.Stone",
+  "placeSoundGroup": "staxel.sounds.place.Stone",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 2,
+    "value": 4
+  },
+  "searchable": true,
+  //"emissiveColor": "f8f8ff",
+  //"light": 5.0,
+  "stepSoundGroup": "staxel.sounds.StoneFootSteps",
+  "voxels": "mods/PrideMod/tile/Honeycomb.qb"
+}

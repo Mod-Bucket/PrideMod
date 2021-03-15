@@ -1,0 +1,30 @@
+{
+  "altModels": [
+    {
+      "bodyType": "staxel.bodyType.HumanoidFemale",
+      "model": "mods/PrideMod/accessories/shorts/RainbowShorts.qb"
+    },
+    {
+      "bodyType": "staxel.bodyType.caithFemale",
+      "model": "mods/PrideMod/accessories/shorts/RainbowShorts.qb"
+    }
+  ],
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale"
+  ],
+  "code": "mods.mb.PrideMod.accessories.shorts.RainbowShorts",
+  "kind": "Trousers",
+  "model": "mods/PrideMod/accessories/shorts/RainbowShorts.qb",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 150,
+    "value": 250
+  },
+  "searchable": true,
+  "starter": true,
+  "subcategory": "shorts",
+  "categories": [
+    "basic"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "code": "mods.mb.PrideMod.crafting.reaction.FryPancakesChocolate",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakeBatterChocolate"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakesChocolate"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

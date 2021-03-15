@@ -1,0 +1,21 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PrideMod.accessories.boots.RainbowBoots",
+  "kind": "Shoes",
+  "model": "mods/PrideMod/accessories/boots/RainbowBoots.qb",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 150,
+    "value": 250
+  },
+  "searchable": true,
+  "starter": true,
+  "subcategory": "trainers",
+  "categories": [
+    "basic"
+  ]
+}

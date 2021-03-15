@@ -1,0 +1,20 @@
+{
+  "code": "mods.mb.PrideMod.crafting.reaction.FryPancakesBlueberries",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakeBatterBlueberries"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakesBlueberries"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

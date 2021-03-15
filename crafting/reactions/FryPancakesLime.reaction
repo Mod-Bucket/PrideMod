@@ -1,0 +1,20 @@
+{
+  "code": "mods.mb.PrideMod.crafting.reaction.FryPancakesLime",
+  "recipeStep": "fry",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakeBatterLime"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakesLime"
+    }
+  ],
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "effect": "staxel.effect.cooking.Fry",
+  "processDrawable": "veggies"
+}

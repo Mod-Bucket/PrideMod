@@ -1,0 +1,44 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PrideMod.accessories.backwardsCaps.RainbowBackwardsCap",
+  "hairReplacements": {
+    "default": "staxel.accessories.characters.accessories.hatHairs.BackwardsCapHairBase",
+    "species": [
+      {
+        "bodyTypes": [
+          "staxel.bodyType.caithFemale",
+          "staxel.bodyType.caithMale"
+        ],
+        "default": "staxel.accessories.characters.accessories.hatHairs.BackwardsCapCaithHairBase",
+        "specific": [
+          {
+            "code": "staxel.accessories.characters.accessories.hatHairs.Caith_HatHairBase_NoEars",
+            "type": "bald"
+          },
+        ]
+      }
+    ],
+    "specific": [
+      {
+        "code": "staxel.accessories.hairstyles.bald",
+        "type": "bald"
+      },
+    ]
+  },
+  "kind": "Hat",
+  "model": "mods/PrideMod/accessories/backwardsCaps/RainbowBackwardsCap.qb",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "subcategory": "hat",
+  "categories": [
+    "skater"
+  ]
+}

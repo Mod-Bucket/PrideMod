@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": ["flagpost"],
+  "code": "mods.mb.PrideMod.tileObject.GenderfluidFlagpost.qb",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "frameAnimatedTile": {"frameTime": 0.20},
+  "searchable": true,
+  "variants": [
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={0,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={32,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={64,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={96,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={128,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={160,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={192,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={224,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={256,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={288,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={320,0,0}",
+    "mods/PrideMod/tileObject/flagposts/GenderfluidFlagpost.qb?size={32,48,16}?offset={352,0,0}",
+  ]
+}

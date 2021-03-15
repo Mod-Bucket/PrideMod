@@ -1,0 +1,14 @@
+{
+    "file": "staxel/characters/species/human.species", //Case sensitive
+    "priority": 1, //Higher priority leads to this patch being applied later than others.
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+		"male": {
+			"model": "mods/PrideMod/species/Human_Male.qb",
+		},
+		"female": {
+			"model": "mods/PrideMod/species/Human_Female.qb"
+		},
+		}
+    }
+

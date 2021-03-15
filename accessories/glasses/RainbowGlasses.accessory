@@ -1,0 +1,17 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.PrideMod.accessories.glasses.RainbowGlasses",
+  "kind": "Accessory",
+  "model": "mods/PrideMod/accessories/glasses/RainbowGlasses.qb",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 130,
+    "value": 210
+  },
+  "searchable": true,
+  "subcategory": "glasses"
+}

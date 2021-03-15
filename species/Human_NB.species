@@ -1,0 +1,21 @@
+{
+  "code": "staxel.species.Human_NB",
+  "icon": "image/CharacterCreator/HumanSpeciesIcon.png",
+  "male": {
+    "icon": "mods/PrideMod/species/NonbinaryIcon.png",
+    "bodyType": "staxel.bodyType.HumanoidMale",
+    "model": "mods/PrideMod/species/Human_NB.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+  },
+  "female": {
+    "icon": "mods/PrideMod/species/NonbinaryIcon.png",
+    "bodyType": "staxel.bodyType.HumanoidFemale",
+    "model": "mods/PrideMod/species/Human_NB1.qb",
+    "paletteGroups": [
+      "staxel.palette.group.SkinColours"
+    ]
+  },
+  "playable": true
+}

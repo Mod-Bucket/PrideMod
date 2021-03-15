@@ -1,0 +1,30 @@
+{
+  "name": "Mix Pancake Batter",
+  "code": "mods.mb.PrideMod.crafting.reaction.MixPancakesTangerine",
+  "recipeStep": "mix",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.MixingStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.PancakeBatter"
+    },
+    {
+      "code": "staxel.item.crafting.ChoppedTangerine"
+    }
+	],
+  "results": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakeBatterTangerine"
+    }
+  ],
+  "moveResultsToSite": "results",
+  "duration": 5,
+  "triggerDurationCraftManually": true,
+  "effectTrigger": "staxel.effect.DockItem",
+  "triggerDockAction": "staxel.entityAction.ToggleMixerAction",
+  "triggerDockActionOnCompletion": "staxel.entityAction.ToggleMixerAction",
+  "effect": "staxel.effect.cooking.Mixer",
+  "processDrawable": "sludge"
+}

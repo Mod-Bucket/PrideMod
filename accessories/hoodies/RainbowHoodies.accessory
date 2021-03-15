@@ -1,0 +1,30 @@
+{
+  "altModels": [
+    {
+      "bodyType": "staxel.bodyType.HumanoidFemale",
+      "model": "mods/PrideMod/accessories/hoodies/RainbowHoodie.qb"
+    },
+    {
+      "bodyType": "staxel.bodyType.caithFemale",
+      "model": "mods/PrideMod/accessories/hoodies/RainbowHoodie.qb"
+    }
+  ],
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale"
+  ],
+  "code": "mods.mb.PrideMod.accessories.hoodies.RainbowHoodie",
+  "kind": "Shirt",
+  "model": "mods/PrideMod/accessories/hoodies/RainbowHoodie.qb",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 180,
+    "value": 300
+  },
+  "searchable": true,
+  "starter": true,
+  "subcategory": "hoodie",
+  "categories": [
+    "basic"
+  ]
+}

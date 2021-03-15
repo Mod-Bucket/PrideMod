@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "market",
+    "cake",
+    "pancakes",
+    "food"
+  ],
+  "code": "mods.mb.PrideMod.item.crafting.PancakesDragonFruit",
+  "eatTime": 3,
+  "icon": "mods/PrideMod/item/complete/pancakes/PancakesDragonFruit.qb",
+  "inHand": "mods/PrideMod/item/complete/pancakes/PancakesDragonFruit.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"lucky"
+	]
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 1656,
+    "value": 2760
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

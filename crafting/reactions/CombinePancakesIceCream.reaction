@@ -1,0 +1,23 @@
+{
+  "name": "Combine Blackberry Pie",
+  "code": "mods.mb.PrideMod.crafting.reaction.CombinePancakesIceCream",
+  "recipeStep": "combine",
+  "tools": [],
+  "docks": [
+    "staxel.tileObject.serverVillage.CombiningStation"
+  ],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Pancakes"
+    },
+    {
+      "code": "staxel.item.crafting.PlainIceCream"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.mb.PrideMod.item.crafting.PancakesIceCream"
+    }
+  ],
+  "effectTrigger": "staxel.effect.cooking.Combine"
+}
